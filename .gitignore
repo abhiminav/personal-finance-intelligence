@@ -16,3 +16,8 @@ models/*.joblib
 models/*.json
 
 data/generated/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
