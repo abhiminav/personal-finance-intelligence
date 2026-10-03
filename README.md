@@ -5,6 +5,11 @@ A full-stack personal finance intelligence platform for analyzing Indian bank an
 Upload a CSV or PDF statement and the application extracts transactions, cleans messy merchant descriptions, identifies merchants and P2P counterparties, categorizes spending, detects unusual spending patterns, and forecasts future spending.
 
 Built with **Python, FastAPI, React, and Vite**.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![Tests](https://img.shields.io/badge/Tests-166%20passed-success)
+
 
 > **Privacy:** The application processes uploaded statements temporarily and does not permanently store uploaded financial statements. The repository contains only synthetic/anonymized sample data.
 
