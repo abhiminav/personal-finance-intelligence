@@ -1,8 +1,9 @@
+fastapi
+uvicorn[standard]
 pandas
 numpy
 rapidfuzz
 scikit-learn
-pytest
 pdfplumber
 reportlab==5.0.1
-httpx2
+pytest
